@@ -1,0 +1,13 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\bin\Debug\netcoreapp3.1\TaskListCapStone.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\TaskList\TaskList\obj\Debug\netcoreapp3.1\TaskListCapStone.genruntimeconfig.cache
